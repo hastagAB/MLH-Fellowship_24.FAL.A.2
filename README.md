@@ -77,3 +77,12 @@ Moving forward, I am excited to apply the skills and insights I've gained to new
 
 Signing off,
 HastagAB
+
+## **Follow or Reach Out** 🌐
+
+Feel free to connect with me on:
+
+- [LinkedIn](https://www.linkedin.com/in/hastagab/)
+- [GitHub](https://github.com/hastagAB)
+- [Twitter|X](https://x.com/HastagAB)
+
