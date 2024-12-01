@@ -28,14 +28,14 @@ During the MLH Fall 2024 Fellowship, I was assigned to work on improving Meta's 
 
 ### 3. **CTpF (Capture the Pod Flag) Activity** 🏴‍☠️🚩
 
-- As part of our fellowship activities, I participated using AudioSeal in an event called **"MLH Capture the Pod Flag (CTpF)"** for my MLH pod. The goal was to create a collaborative learning experience where fellows designed and solved challenges to capture flags in the format `mlh{example_flag}`. I set up the Audios watermarked with hidden flag codes to develop my challenge and eventually contributed it to the team's shared repository. Adding a fun and competitive edge to the activity. It was a great opportunity to strengthen the pod’s camaraderie while makeing other memebers learn about AudioSeal and related concepts. 🔐💡
+- As part of our fellowship activities, I participated using AudioSeal in an event called **"MLH Capture the Pod Flag (CTpF)"** for my MLH pod. The goal was to create a collaborative learning experience where fellows designed and solved challenges to capture flags in the format `mlh{example_flag}`. I set up the Audio watermarked with hidden flag codes to develop my challenge and eventually contributed it to the team's shared repository. Adding a fun and competitive edge to the activity. It was a great opportunity to strengthen the pod’s camaraderie while making other members learn about AudioSeal and related concepts. 🔐💡
 
 
 ## 📚 **Learnings and Challenges Faced**
 
 ### 1. **Understanding the AudioCraft Pipeline** 🔍🔗
 
-- Initially, understanding the **AudioCraft pipeline** and how it integrated with AudioSeal was challenging. It required a deep dive into the internals of both repositories, and I had to navigate through a significant amount of code to understand the data flow and architecture. However, with the help of my mentors Tuan and Hady & by consistently studying the documentation and experimenting hands-on, I eventually gained a solid understanding. This process taught me patience and reinforced the importance of guided exploration. 🌱💪
+- Initially, understanding the **AudioCraft pipeline** and how it integrated with AudioSeal was challenging. It required a deep dive into the internals of both repositories, and I had to navigate through a significant amount of code to understand the data flow and architecture. However, with the help of my mentors [Tuan](https://github.com/antoine-tran) and [Hady](https://github.com/hadyelsahar) & by consistently studying the documentation and experimenting hands-on, I eventually gained a solid understanding. This process taught me patience and reinforced the importance of guided exploration. 🌱💪
 
 - **AudioCraft's Role**: AudioCraft provided an essential building block for handling the audio data pipeline, offering key functionalities such as data augmentation and efficient processing. Understanding how to leverage AudioCraft to preprocess and augment data was crucial for optimizing the watermarking tasks. Learning its features empowered me to utilize the audio data more effectively, ultimately training my own custom model. 📈🔊
 
@@ -47,7 +47,7 @@ During the MLH Fall 2024 Fellowship, I was assigned to work on improving Meta's 
 
 ### 3. **Collaboration and Communication** 🤝🌍
 
-- Throughout the fellowship, I collaborated closely with my mentors, **Tuan Tran** and **Hady Elsahar**, who provided valuable feedback and guidance. I learned the importance of clear and effective communication, especially while working with mentors across different time zones. Documenting my progress clearly and frequently helped make the collaboration smoother and more efficient. 🌐🗣️
+- Throughout the fellowship, I collaborated closely with my mentors, [**Tuan Tran**](https://github.com/antoine-tran) and [**Hady Elsahar**](https://github.com/hadyelsahar), who provided valuable feedback and guidance. I learned the importance of clear and effective communication, especially while working with mentors across different time zones. Documenting my progress clearly and frequently helped make the collaboration smoother and more efficient. 🌐🗣️
 
 ### 4. **Technical Writing and Presentation Skills** 📝🎤
 
@@ -69,7 +69,7 @@ During the MLH Fall 2024 Fellowship, I was assigned to work on improving Meta's 
 
 🎉 Closing Notes
 
-As I conclude my MLH Fall 2024 Fellowship, I feel an immense sense of fulfillment and gratitude. This journey has been one of profound learning, collaboration, and growth. Working on AudioSeal allowed me to sharpen my technical skills, particularly in the fields of audio processing, deep learning, and model optimization. The challenges I faced along the way taught me resilience, while the mentorship and support I received from Tuan Tran, Hady Elsahar, Alex Wilkes and my peers enriched my experience beyond measure.
+As I conclude my MLH Fall 2024 Fellowship, I feel an immense sense of fulfillment and gratitude. This journey has been one of profound learning, collaboration, and growth. Working on AudioSeal allowed me to sharpen my technical skills, particularly in the fields of audio processing, deep learning, and model optimization. The challenges I faced along the way taught me resilience, while the mentorship and support I received from [Tuan](https://github.com/antoine-tran), [Hady](https://github.com/hadyelsahar), [Alex](https://github.com/awilkescom) and my peers enriched my experience beyond measure.
 
 The fellowship gave me the opportunity to make meaningful contributions to an open-source project that I genuinely believe in. From developing training recipes and custom attacks to learning all the technicalities in between, I am proud of the milestones I've reached and the impact I've made.
 
